@@ -35,6 +35,8 @@
     function pedir_ayuda():void{
       console.log('Auxilio!!!');
     }
+
+    console.log(pedir_ayuda());
   
     // Aserciones de Tipo
     const poder: any = '100';
